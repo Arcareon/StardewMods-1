@@ -1,0 +1,6 @@
+{
+  "FirstMessage": "Você encontrou seu primeiro junimo escondido, ache todos os cinco para despertar o Junimo Mágico!",
+  "FoundMessage": "Você encontrou {{TotalFound}} dos 5 junimos escondidos, ache todos eles para despertar o Junimo Mágico!",
+  "LastMessage": "Você encontrou todos os junimos escondidos e despertou o Junimo Mágico, este chegará em sua fazenda amanhã.",
+  "EmptyMessage": "O junimo que estava escondido aqui se mudou."
+}
